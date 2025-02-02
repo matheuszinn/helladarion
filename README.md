@@ -1,6 +1,8 @@
 # helladarion
 Notas de RPG no terminal
 
+O Helladarion, na mitologia do RPG Tormenta, é um artefato que serve como sumo-sarcedote de Tanna-Toh, a Deusa do conhecimento e das ciências. O Helladarion contém todos os conhecimentos dos maiores clérigos e pensadores, para que esses jamais fossem perdidos.
+
 ---
 
 ## 1. Visão Geral do Projeto
